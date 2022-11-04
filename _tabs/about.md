@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-## Experience
+# Experience
 
 ### Associate Software Architect
 Calcey
@@ -39,3 +39,15 @@ Calcey
 - Develop mobile applications using Objective-C.
 - Develop Web Applications using ASP.NET MVC and SQL Server.
 - Develop and maintain ETL using SSIS.
+
+---
+
+# Education 
+
+### Bachelor of Science in Computer Science
+Staffordshire University
+(2007 - 2010)
+
+### Diploma in Computer Science
+Asia Pacific Institute of Information Technology
+(2007 - 2008)
